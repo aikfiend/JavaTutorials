@@ -1,4 +1,4 @@
-package com.tutorial;
+package com.javatutorials;
 
 // Superclass
 public class Human {

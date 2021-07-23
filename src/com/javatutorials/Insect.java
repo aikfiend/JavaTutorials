@@ -1,4 +1,4 @@
-package com.tutorial;
+package com.javatutorials;
 
 public class Insect {
     String name;

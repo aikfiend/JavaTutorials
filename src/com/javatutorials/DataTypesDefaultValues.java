@@ -1,4 +1,4 @@
-package com.tutorial;
+package com.javatutorials;
 
 public class DataTypesDefaultValues {
     public static void main(String[] args) {

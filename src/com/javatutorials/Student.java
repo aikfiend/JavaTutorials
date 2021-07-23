@@ -1,4 +1,4 @@
-package com.tutorial;
+package com.javatutorials;
 
 // Inheritor class
 public class Student extends Human {
